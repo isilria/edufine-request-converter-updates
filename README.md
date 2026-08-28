@@ -3,6 +3,6 @@
 이 저장소는 프로그램의 자동 업데이트 확인과 실행 파일 배포에 사용합니다.
 
 - `latest.ini`: 최신 버전, 릴리즈 날짜, 다운로드 주소, SHA-256 검증값
-- `EdufineRequestConverter_Ver2.0.1.exe`: Ver. 2.0.1 업데이트 파일
+- `EdufineRequestConverter_Ver2.0.exe`: Ver. 2.0 업데이트 파일
 
 소스 코드는 별도의 비공개 저장소에서 관리합니다.
