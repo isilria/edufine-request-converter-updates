@@ -1,8 +1,8 @@
 # 징수요청 파일 변환기 업데이트 배포
 
-이 저장소는 프로그램의 자동 업데이트 확인과 실행 파일 배포에 사용합니다.
+최신 정식 버전: 2.3.0 (2026-11-16)
 
-- `latest.ini`: 최신 버전, 릴리즈 날짜, 다운로드 주소, SHA-256 검증값
-- `EdufineRequestConverter_Ver2.0.exe`: Ver. 2.0 업데이트 파일
-
-소스 코드는 별도의 비공개 저장소에서 관리합니다.
+- [최신 정식 다운로드 및 변경 내역](https://github.com/isilria/edufine-request-converter-updates/releases/latest)
+- latest.ini: 자동 업데이트용 버전·날짜·다운로드 주소·SHA-256
+- 버전별 실행파일과 릴리스 첨부의 실행파일 ZIP·검증 결과를 제공합니다.
+- 개발 이력과 소스 백업은 별도 비공개 저장소에서 관리합니다.
